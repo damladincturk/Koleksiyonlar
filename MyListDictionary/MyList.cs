@@ -32,21 +32,14 @@ namespace MyListDictionary
             dizi2[dizi2.Length - 1] = item2;
         }
 
-        public int Length{
-            get { return dizi1.Length; }
-        }
-
         public void goster()
         {
-            
            
                 for (int i = 0; i < dizi1.Length; i++)
                 {
                     Console.WriteLine(dizi1[i].ToString()+" "+dizi2[i]);
-           
-
+         
                 }
-
             
         }
         
