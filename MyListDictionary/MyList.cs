@@ -37,7 +37,7 @@ namespace MyListDictionary
            
                 for (int i = 0; i < dizi1.Length; i++)
                 {
-                    Console.WriteLine(dizi1[i].ToString()+"   fcd"+dizi2[i]);
+                    Console.WriteLine(dizi1[i].ToString()+" d"+dizi2[i]);
          
                 }
             
